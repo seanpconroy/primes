@@ -20,3 +20,8 @@ def isPrime(num):
 	    print(num, "is not a prime number")
 	else:
 	    print(num, "is a prime number")
+
+
+
+
+	    #change made
